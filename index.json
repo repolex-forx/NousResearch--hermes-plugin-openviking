@@ -1,0 +1,11 @@
+{
+  "org": "NousResearch",
+  "repo": "hermes-plugin-openviking",
+  "versions": [
+    {
+      "commit": "5dca75f4d3dcef9467ce2ff32e170d84c679de5f",
+      "tag": "main",
+      "parsed_at": "2026-09-29T08:51:10.266374+00:00"
+    }
+  ]
+}
