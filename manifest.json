@@ -20,6 +20,27 @@
       ],
       "ast": [
         "aggregate/ast/5dca75f4d3dcef9467ce2ff32e170d84c679de5f/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/5dca75f4d3dcef9467ce2ff32e170d84c679de5f.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "httpx",
+          "ecosystem": "PYPI",
+          "version": "0.27",
+          "githubOrg": "encode",
+          "githubRepo": "httpx",
+          "githubUrl": "https://github.com/encode/httpx",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "psutil",
+          "ecosystem": "PYPI",
+          "version": "5.9",
+          "githubOrg": "giampaolo",
+          "githubRepo": "psutil",
+          "githubUrl": "https://github.com/giampaolo/psutil",
+          "source": "build_file:pyproject.toml"
+        }
       ]
     }
   ],
