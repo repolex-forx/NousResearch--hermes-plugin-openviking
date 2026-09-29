@@ -1,0 +1,26 @@
+{
+  "manifest_version": "1.0",
+  "org": "NousResearch",
+  "repo": "hermes-plugin-openviking",
+  "versions": [
+    {
+      "commit": "5dca75f4d3dcef9467ce2ff32e170d84c679de5f",
+      "parsed_at": "2026-09-29T08:45:21.361697+00:00",
+      "tag": "main",
+      "filetree": "filetree/5dca75f4d3dcef9467ce2ff32e170d84c679de5f.nq.gz",
+      "blobs": [
+        "blob/75410e73319c72cd3e991a501c5455eb78f38375.nq.gz",
+        "blob/00f2d38d8063d0c6b219c0081e51888063b0c55e.nq.gz",
+        "blob/3578e9be8f3f4c3a218b100cc4095850bdd29de5.nq.gz",
+        "blob/2b41a9f12ff428b71160237523fd71fa2e6f9c0c.nq.gz",
+        "blob/ad8a96256100c13f49122b0e118ceb2b2c12fed5.nq.gz",
+        "blob/18b8ea78741548dac1d4e52df7ad130ef84bc848.nq.gz",
+        "blob/130220f5162c198bbe7317044184bf4c4edba82c.nq.gz",
+        "blob/8e8b0d3d969a9367d002c6a0dc00b37631da712b.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
