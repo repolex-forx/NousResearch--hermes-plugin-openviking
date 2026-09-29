@@ -41,7 +41,9 @@
           "githubUrl": "https://github.com/giampaolo/psutil",
           "source": "build_file:pyproject.toml"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/5dca75f4d3dcef9467ce2ff32e170d84c679de5f/chunk-001.nq.gz",
+      "dep": "dep/5dca75f4d3dcef9467ce2ff32e170d84c679de5f.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
